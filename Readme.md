@@ -1,5 +1,3 @@
-**Spring Boot Sample App**
+**Spring Boot Rest Sample App**
 
-[Tasks] Item1
-
-## Tasks
+**Android Retrofit Client Sample App**
