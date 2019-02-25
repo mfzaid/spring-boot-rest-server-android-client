@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS employee;
+
+CREATE TABLE employee (
+
+  id INT NOT NULL AUTO_INCREMENT,
+
+  name VARCHAR(256) NOT NULL,
+
+  department VARCHAR(256) NOT NULL,
+
+  job_title VARCHAR(256) NOT NULL,
+
+  last_audit DATE NOT NULL,
+
+  PRIMARY KEY (id));

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidRestTemplate</string>
+    <string name="title_employee_detail">Employee Detail</string>
+</resources>
